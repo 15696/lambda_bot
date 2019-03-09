@@ -1,6 +1,5 @@
-# lambda_bot
+# lambda_bot (Archived)
 A discord bot written with pure lambdas using discord.py
 
-
 requirements:
- - python3.5 -> 3.6
+ - python3.5+
